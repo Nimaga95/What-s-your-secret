@@ -1,6 +1,6 @@
 # What-s-your-secret
 
-A short project to use an a public API's to find some random secret.
+A short project using an a public API's to find some random secret.
 
 # How to use?
 1. npm i y
